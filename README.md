@@ -1,2 +1,2 @@
-# first-repo-dio
-Meu primeiro repositório, criado para o desafio de projeto da DIO.
+# Meu primeiro repositório
+Criado usando os ensinamentos do curso de introdução ao Git/GitHub, do bootcamp TQI FullStack Developer.
